@@ -1,4 +1,4 @@
-# weather-dashboard
+# Weather-dashboard
 React Weather Dashboard with live API data, charts, and predictive simulation
 
 Project Type: API Data Visualization / Dashboard  
