@@ -1,6 +1,5 @@
 # weather-dashboard
 React Weather Dashboard with live API data, charts, and predictive simulation
-# Weather Dashboard
 
 Project Type: API Data Visualization / Dashboard  
 Live Demo: [Insert Vercel URL]  
